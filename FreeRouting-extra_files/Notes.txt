@@ -1,0 +1,6 @@
+jar files needed for compining FreeRouting.
+
+netx.jar came from icedtea-netx-common
+jh-2.0.05.ds1.jar came from javahelp2
+
+jh.jar is the same file as jh-2.0.05.ds1.jar
